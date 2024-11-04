@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BigO", "BigO", "{CC7E4A9D-5154-4671-8968-3E406FBD0B9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindNemo", "BigO\FindNemo\FindNemo.csproj", "{9185072B-90A0-407A-BBDA-3CE585DAF48A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9185072B-90A0-407A-BBDA-3CE585DAF48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9185072B-90A0-407A-BBDA-3CE585DAF48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9185072B-90A0-407A-BBDA-3CE585DAF48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9185072B-90A0-407A-BBDA-3CE585DAF48A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9185072B-90A0-407A-BBDA-3CE585DAF48A} = {CC7E4A9D-5154-4671-8968-3E406FBD0B9F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C4BCAB-46B0-402A-8F8E-666F30E2167B}
+	EndGlobalSection
+EndGlobal
